@@ -1,0 +1,32 @@
+
+body{
+    background-color: #e0e0e0;
+}
+.info-personal{
+    text-align: left;
+}
+.datos-personales{
+    width: 73%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.datos-personales-col-derecha{
+    padding-left: 320px;
+    text-align: right;
+    box-sizing: border-box;
+}
+#descripcion{
+    text-align: justify;
+    margin-right: 400px;
+}
+.destrezas{
+    padding: 0px 250px;
+}
+.destrezas h2{
+    background-color: rgb(180, 197, 233);
+    margin-right: 400px;
+}
+#final{
+    padding-bottom: 25px;
+}
